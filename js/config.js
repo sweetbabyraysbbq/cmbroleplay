@@ -50,7 +50,9 @@ var l_background = "backgrounds/videos/glimmering.webm";
 Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
-	"backgrounds/images/touhou01.jpg",
+	"backgrounds/images/b1.jpg",
+	"backgrounds/images/b2.jpg",
+	"backgrounds/images/b3.jpg",
 ];
 
 /*Random background images order?*/
@@ -91,7 +93,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 25;
+var l_musicVolume = 6;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
