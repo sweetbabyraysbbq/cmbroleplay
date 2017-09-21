@@ -85,7 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "OP0tev7bLuw", name: "WELCOME TO HELL"}
+	{youtube: "SYMeuq9pwKQ", name: "WELCOME TO HELL"}
 ];
 
 /*Random music order?*/
