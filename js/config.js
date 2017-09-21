@@ -85,7 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{youtube: "iy61r3Qkm6o", name: "Path of Borealis"}
+	{youtube: "OP0tev7bLuw", name: "Path of Borealis"}
 ];
 
 /*Random music order?*/
@@ -93,7 +93,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 6;
+var l_musicVolume = 100;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
